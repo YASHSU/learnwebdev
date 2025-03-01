@@ -8,7 +8,8 @@ This project is a curated roadmap of free YouTube videos, organized into an 11-w
 
 ## Live Demo
 
-Experience the course roadmap: [Zero to Full-Stack Hero](https://learnwebdev.vercel.app/)
+Experience the course roadmap: [Zero to Full-Stack Hero]
+(https://learnwebdev.vercel.app/)
 
 ## Features
 
@@ -16,7 +17,8 @@ Experience the course roadmap: [Zero to Full-Stack Hero](https://learnwebdev.ver
 - Curated content from various YouTube creators
 - Structured learning path for beginners
 - Focus on practical, industry-relevant skills
-- No CS degree is required
+- All you need to dedicate your 4 hours daily for coding. 
+
 
 ## Tech Stack
 
@@ -29,6 +31,7 @@ Experience the course roadmap: [Zero to Full-Stack Hero](https://learnwebdev.ver
 - Structured approach to web development learning
 - Aims to help learners earn their first tech salary
 - Provides a foundation for further specialized learning
+- You can learn a skill if you have eagerness to build something of your own
 
 ## Contributing
 
